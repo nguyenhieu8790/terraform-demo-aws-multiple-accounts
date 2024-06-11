@@ -1,0 +1,9 @@
+name: TEST PR
+on: pull_request
+
+jobs:
+  automerge:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Make changes to pull request
+        run: echo testing
