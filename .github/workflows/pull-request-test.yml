@@ -6,4 +6,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Make changes to pull request
-        run: echo testing
+        run: echo testing && exit 100
