@@ -1,4 +1,4 @@
-# Updated version 1
+# Updated version 2
 
 This was a demo used during HashiTalks Africa on 30 April 2020, and has been turned into 2 updated tutorials:
 
